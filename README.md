@@ -11,14 +11,14 @@ growth trends for strategic planning.](https://github.com/gurleenk-1/retailOrder
 - <b>Netflix Content Analytics (AWS)</b>
   - [aimed to develop skills in handling cloud-based datasets and creating business dashboards with Amazon QuickSight.](https://github.com/gurleenk-1/NetflixQuickSortAnalysis)
 
-<h2>✨ Case Studies</h2>
+<!--<h2>✨ Case Studies</h2>X
 
-- [case study 1](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [case study 1(ongoing)]()
 
-<h2>✨ Certifications</h2>
+<!--<h2>✨ Certifications</h2>
 
-- [Google advanced analytics](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
+- [Google advanced analytics]()
+-->
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
