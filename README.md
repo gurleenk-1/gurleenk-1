@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Food Delivery Data Analysis </b>
-  - [real-time use cases in food delivery and consumer analytics scenarios.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [real-time use cases in food delivery and consumer analytics scenarios.](https://github.com/gurleenk-1/FoodDeliveryAnalysis)
 - <b>Retail Orders Data Analysis</b>
   - [revealing revenue drivers and
 growth trends for strategic planning.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
