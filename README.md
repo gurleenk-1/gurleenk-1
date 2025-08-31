@@ -6,9 +6,10 @@
   - [real-time use cases in food delivery and consumer analytics scenarios.](https://github.com/gurleenk-1/FoodDeliveryAnalysis)
 - <b>Retail Orders Data Analysis</b>
   - [revealing revenue drivers and
-growth trends for strategic planning.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+growth trends for strategic planning.](https://github.com/gurleenk-1/retailOrderDataAnalysis
+) 
 - <b>Netflix Content Analytics (AWS)</b>
-  - [aimed to develop skills in handling cloud-based datasets and creating business dashboards with Amazon QuickSight.](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [aimed to develop skills in handling cloud-based datasets and creating business dashboards with Amazon QuickSight.](https://github.com/gurleenk-1/NetflixQuickSortAnalysis)
 
 <h2>✨ Case Studies</h2>
 
