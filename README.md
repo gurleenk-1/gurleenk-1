@@ -1,4 +1,11 @@
-<h1>Hi, I'm Gurleen! <br/> <a href="https://www.linkedin.com/in/gurleen-kaur1599/">Data Analysis and Visualization professional</a> </h1>
+<h1>
+  Hi, I'm Gurleen! <br/>
+  
+</h1>
+<a> 
+My background is in analytics and engineering, where I’ve spent time investigating data quality issues, diagnosing performance gaps, and building dashboards that teams can actually rely on. I enjoy working with imperfect, real-world data using SQL, BI tools, Python and structured analysis to understand what’s happening underneath the surface and why it matters for operational and business outcomes. 
+</a>
+
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
