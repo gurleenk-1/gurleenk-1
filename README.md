@@ -11,6 +11,8 @@ My background is in analytics and engineering, where I’ve spent time investiga
 
 - <b>Food Delivery Data Analysis </b>
   - [real-time use cases in food delivery and consumer analytics scenarios.](https://github.com/gurleenk-1/FoodDeliveryAnalysis)
+- <b>Sales Analysis & Visualization </b>  
+  - [Interactive sales performance dashboard analyzing revenue vs budget, trends over time, and customer and product-level insights using Power BI.](https://github.com/gurleenk-1/SalesAnalysisVisualisation)
 - <b>Retail Orders Data Analysis</b>
   - [revealing revenue drivers and
 growth trends for strategic planning.](https://github.com/gurleenk-1/retailOrderDataAnalysis
